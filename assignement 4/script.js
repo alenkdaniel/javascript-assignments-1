@@ -1,3 +1,4 @@
+    
     const images = ['1st.jpg', '2nd.jpg', '3rd.jpg'];
     let currentImage = 0;
     const slideshow = document.getElementById('slideshowImage');
